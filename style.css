@@ -1,9 +1,16 @@
 .atari {
-    position: relative;
-    
+	display: flex;
+    justify-content: center;
+}
+.html,body{
+	background-color: #fff200;
 }
 
-
+.kuji{
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
 
 
